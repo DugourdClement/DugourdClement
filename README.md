@@ -1,6 +1,6 @@
 ### Welcome to my Github!
 
-I am currently a student in computer science so you will find mostly academic projects in a large variety of languages.
+I am currently a student in computer science so you will find mostly academic projects in a large variety of languages.  
 But it is not impossible to find some personal projects too.
 
 
