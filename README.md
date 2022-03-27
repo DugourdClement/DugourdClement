@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my Github!
+
+I am currently a student in computer science so you will find mostly academic projects in a large variety of languages.
+But it is not impossible to find some personal projects too.
+
+
 
 <!--
 **DugourdClement/DugourdClement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
